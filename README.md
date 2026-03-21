@@ -125,7 +125,7 @@ The dataset contains pizza order records with the following key fields:
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/Abdo-Eslam/Pizza-Sales-Analysis.git](https://github.com/Abdo-Eslam/Pizza-Sales-Analysis.git)
+   git clone [https://github.com/Abdo-Eslam/Pizza-Sales-Data-Analysis-SQL-Excel.git](https://github.com/Abdo-Eslam/Pizza-Sales-Data-Analysis-SQL-Excel.git)
    ```
 
 2. **Import the data**
@@ -145,5 +145,5 @@ The dataset contains pizza order records with the following key fields:
 
 Feel free to connect or reach out if you have any questions!
 
-- GitHub: [Abdo-Eslam]([https://github.com/YOUR_USERNAME](https://github.com/Abdo-Eslam))
-- LinkedIn: [Abdo Eladawe]([https://www.linkedin.com/in/your-profile-url](https://www.linkedin.com/in/abdo-eladawe/))
+- **GitHub:** [Abdo-Eslam](https://github.com/Abdo-Eslam)
+- **LinkedIn:** [Abdo Eladawe](https://www.linkedin.com/in/abdo-eladawe/)
